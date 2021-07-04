@@ -1,0 +1,23 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Welcome to my Task Tracker!",
+      "day": "This is where the date is Displayed!",
+      "reminder": false
+     
+  },
+  {
+      "id": 2,
+      "text": "This task is highlighted in Green",
+      "day": "Add more tasks by selecting the Add button on the top left and delete them using the x icon next to it.",
+      "reminder": true
+  },
+  {
+      "id": 3,
+      "text": "That is all, (you can also delete this one too.)",
+      "day": "Made July 3rd, 2021",
+      "reminder": false
+  }
+  ]
+}
